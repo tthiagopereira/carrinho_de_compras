@@ -20,7 +20,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/micro-products" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -39,7 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/thiago/WorkSpace/TESTE/micros-genesis/micro-shopping-cart/src/kafka",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
@@ -50,7 +50,7 @@
     "nodejs_interpreter_path": "/home/thiago/.nvm/versions/node/v16.15.0/bin/node",
     "nodejs_package_manager_path": "yarn",
     "settings.editor.selected.configurable": "settings.nodejs",
-    "ts.external.directory.path": "/home/thiago/WorkSpace/TESTE/micros-genesis/micro-products/node_modules/typescript/lib",
+    "ts.external.directory.path": "/snap/phpstorm/334/plugins/javascript-impl/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -119,7 +119,7 @@
       <workItem from="1685916330243" duration="3529000" />
       <workItem from="1685934671049" duration="6554000" />
       <workItem from="1685965593530" duration="542000" />
-      <workItem from="1685976144429" duration="6113000" />
+      <workItem from="1685976144429" duration="6428000" />
     </task>
     <task id="LOCAL-00001" summary="add micros">
       <created>1685987668800</created>
